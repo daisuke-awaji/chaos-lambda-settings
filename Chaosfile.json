@@ -1,0 +1,6 @@
+{
+  "interval": "10",
+  "enableForASGs": [
+    "web-SpotInstanceWebServerGroup-AFL1107TTOVS"
+  ]
+}

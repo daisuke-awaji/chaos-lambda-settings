@@ -1,0 +1,4 @@
+{
+    "FunctionArn": "arn:aws:lambda:us-east-1:703976800898:function:chaosLambda:12",
+    "LambdaRoleArn": "arn:aws:iam::703976800898:role/EC2FullAccessRole"
+}
